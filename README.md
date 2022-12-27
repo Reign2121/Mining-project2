@@ -1,2 +1,2 @@
-# mining-project2
+# Mining-project2
 regression by statistics

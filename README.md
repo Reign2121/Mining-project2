@@ -18,4 +18,4 @@ P: Positioning, 마케팅 전략 제시
 
 먼저 소비자들의 특성을 살펴보고, 주목할 만한 특성들로 회귀모형(종속변수: 카드이용건수)을 만들었습니다.
 
-regression by statistics
+regression by statistics 등 분석 알고리즘에 추가적인 설명은 ipynb 내에 적어두었습니다.

@@ -50,15 +50,15 @@ __
 
 __________
 
-![image](https://user-images.githubusercontent.com/121419113/218407619-bf0a1e00-722f-47bc-bbb0-fab9e4648f7a.png)
+<img width="392" alt="image" src="https://user-images.githubusercontent.com/121419113/218412543-cdda993c-fc0e-471e-8eca-b3016dadd16f.png">
 
 서비스 업종 분포 
 
-![image](https://user-images.githubusercontent.com/121419113/218407699-985d0ff3-d26c-4194-b3a0-706d367fad18.png)
+<img width="358" alt="image" src="https://user-images.githubusercontent.com/121419113/218412663-58708915-ea06-4741-835f-bc122478b6fb.png">
 
 성별에 따른 매출 비율
 
-![image](https://user-images.githubusercontent.com/121419113/218407779-d633c09d-9ef1-4420-9dc2-7deb5871f66b.png)
+<img width="358" alt="image" src="https://user-images.githubusercontent.com/121419113/218412724-9e91f8c1-8064-44fa-ad1f-45467b43d048.png">
 
 연령에 따른 매출 비율
 

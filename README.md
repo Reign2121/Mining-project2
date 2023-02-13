@@ -54,13 +54,11 @@ __________
 
 서비스 업종 분포 
 
-<img width="358" alt="image" src="https://user-images.githubusercontent.com/121419113/218412663-58708915-ea06-4741-835f-bc122478b6fb.png">
+<img width="358" alt="image" src="https://user-images.githubusercontent.com/121419113/218412663-58708915-ea06-4741-835f-bc122478b6fb.png"> <img width="358" alt="image" src="https://user-images.githubusercontent.com/121419113/218412724-9e91f8c1-8064-44fa-ad1f-45467b43d048.png">
 
-성별에 따른 매출 비율
 
-<img width="358" alt="image" src="https://user-images.githubusercontent.com/121419113/218412724-9e91f8c1-8064-44fa-ad1f-45467b43d048.png">
+성별에 따른 매출 비율   ////   연령에 따른 매출 비율
 
-연령에 따른 매출 비율
 
 _____
 

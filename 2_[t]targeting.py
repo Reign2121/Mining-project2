@@ -3,7 +3,7 @@ import pandas as pd
 gn = pd.read_csv("공릉동_상권_.csv",encoding = 'cp949')
 gn.info()
 
-##군집분석 결과
+##군집분석 결과#
 gn_drop = gn.iloc[:,1:8]
 gn_drop = gn_drop.drop('분기당_매출_건수', axis =1) #회귀분석에서 레이블로 사용할 카드 이용건수 변수 제외
 #표준화(단위 맞추기)
